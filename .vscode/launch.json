@@ -1,0 +1,53 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Home",
+            "request": "launch",
+            "mainClass": "Home",
+            "projectName": "assignment_299887d0"
+        },
+        {
+            "type": "java",
+            "name": "MainController",
+            "request": "launch",
+            "mainClass": "MainController",
+            "projectName": "assignment_299887d0"
+        },
+        {
+            "type": "java",
+            "name": "AgeCalculator",
+            "request": "launch",
+            "mainClass": "AgeCalculator",
+            "projectName": "assignment_299887d0"
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "assignment_299887d0"
+        },
+        {
+            "type": "java",
+            "name": "Example",
+            "request": "launch",
+            "mainClass": "Example",
+            "projectName": "assignment_299887d0"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}
